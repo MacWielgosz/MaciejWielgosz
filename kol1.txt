@@ -7,3 +7,4 @@ Zmiana 3
 Zmiana niespodzianka
 Zmiana spodziewana
 Zmiana tak
+Zmiana na masterze
